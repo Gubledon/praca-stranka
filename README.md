@@ -21,7 +21,8 @@ Práca okrem samotnej implementácie analyzuje **bezpečnostné požiadavky IoT 
 
 | Dokument | Súbor | Popis |
 |---|---|---|
-| **Prehľad projektu (PDF)** | [`thesis_project.pdf`](./thesis_project.pdf) | Krátky popis, ciele, kalendár úloh |
+| **Diplomová práca (PDF)** | [`diplomovka.pdf`](./diplomovka.pdf) | Aktuálna verzia textu práce |
+| Prehľad projektu (PDF) | [`thesis_project.pdf`](./thesis_project.pdf) | Krátky popis, ciele, kalendár úloh |
 | Prezentácia (PPTX) | [`glider_thesis.pptx`](./glider_thesis.pptx) | 13 slajdov v slovenčine |
 
 ---
